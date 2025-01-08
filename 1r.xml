@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE contactes SYSTEM "1r.dtd">
+<contactes>
+    <!-- Primer contacte -->
+    <contacte principal="sí" familiar="sí">
+        <nom>Joan</nom>
+        <cognom ordre="primer">Pérez</cognom>
+        <cognom ordre="segon">García</cognom>
+        <telefon tipo= "fix">934567890 </telefon>
+        <telefon tipo= "mobil">612345678</telefon>   
+        <edat>25</edat>
+        <adreça>
+            <carrer>Carrer de l'Example</carrer>
+            <numero>123</numero> 
+            <portal>34</portal>
+            <codiPostal>08001</codiPostal>
+            <ciutat>Barcelona</ciutat>
+        </adreça>
+        <email>joan.perez@example.com</email>
+    </contacte>
+    <!-- Segon contacte -->
+    <contacte principal="no" familiar="no">
+        <nom>Maria</nom>
+         <cognom ordre="primer">López</cognom>
+        <cognom ordre="segon">Martínez</cognom>
+        <telefon tipo= "fix">912345678</telefon>
+        <telefon tipo= "mobil">698765432</telefon> 
+        <edat>28</edat>
+        <adreça>
+            <carrer>Avinguda Diagonal</carrer>
+            <numero>456</numero>
+            <portal>345</portal>
+            <codiPostal>08010</codiPostal>
+            <ciutat>Barcelona</ciutat>
+        </adreça>
+        <email>maria.lopez@example.com</email>
+    </contacte>
+</contactes>

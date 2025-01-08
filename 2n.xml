@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE grups SYSTEM "2n.dtd">
+<grups>
+    <grup integrants="5" generePrincipal="pop">
+        <nom1>One Direction</nom1>
+        <generes>pop</generes>
+        <generes>rock</generes>
+        <webOficial>https://www.onedirectionmusic.com</webOficial>
+        <edatIntegrants>
+            <integrant>
+                <nom>Harry Styles</nom>
+                <edat>29</edat>
+            </integrant>
+            <integrant>
+                <nom>Niall Horan</nom>
+                <edat>30</edat>
+            </integrant>
+            <integrant>
+                <nom>Liam Payne</nom>
+                <edat>31</edat>
+            </integrant>
+            <integrant>
+                <nom>Louis Tomlinson</nom>
+                <edat>32</edat>
+            </integrant>
+            <integrant>
+                <nom>Zayn Malik</nom>
+                <edat>31</edat>
+            </integrant>
+        </edatIntegrants>
+        <concerts>200</concerts>
+        <fans>10000000</fans>
+    </grup>
+</grups>

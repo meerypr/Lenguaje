@@ -1,0 +1,16 @@
+<!ELEMENT grups (grup+)>
+<!ELEMENT grup (nom1, generes+, webOficial, edatIntegrants, concerts, fans)>
+<!ATTLIST grup
+    integrants CDATA #REQUIRED
+    generePrincipal CDATA #REQUIRED
+>
+
+<!ELEMENT nom1 (#PCDATA)>
+<!ELEMENT generes (#PCDATA)>
+<!ELEMENT webOficial (#PCDATA)>
+<!ELEMENT edatIntegrants (integrant+)>
+<!ELEMENT integrant (nom, edat)>
+<!ELEMENT nom (#PCDATA)>
+<!ELEMENT edat (#PCDATA)>
+<!ELEMENT concerts (#PCDATA)>
+<!ELEMENT fans (#PCDATA)>

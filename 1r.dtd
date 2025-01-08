@@ -1,0 +1,18 @@
+<!ELEMENT contactes (contacte+)>
+<!ELEMENT contacte (nom, cognom+, telefon+, edat, adreça, email)>
+<!ATTLIST contacte
+    principal (sí | no) #REQUIRED
+    familiar (sí | no) #REQUIRED>
+<!ELEMENT nom (#PCDATA)>
+<!ELEMENT cognom (#PCDATA)>
+<!ATTLIST cognom ordre (primer | segon) #REQUIRED>
+<!ELEMENT telefon (#PCDATA)>
+<!ATTLIST telefon tipo (fix | mobil) #REQUIRED>
+<!ELEMENT edat (#PCDATA)>
+<!ELEMENT adreça (carrer, numero, portal, codiPostal, ciutat)>
+<!ELEMENT carrer (#PCDATA)>
+<!ELEMENT numero (#PCDATA)>
+<!ELEMENT portal (#PCDATA)>
+<!ELEMENT codiPostal (#PCDATA)>
+<!ELEMENT ciutat (#PCDATA)>
+<!ELEMENT email (#PCDATA)>

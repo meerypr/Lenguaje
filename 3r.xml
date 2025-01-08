@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lliga>
+    <equip>
+        <nom>FC Futbol</nom>
+        <localitzacio>Barcelona</localitzacio>
+        <director>Joan Martí</director>
+        <preparadors>Anna López</preparadors>
+        <victories>14</victories>
+        <derrotes>5</derrotes>
+        <jugadors>
+            <jugador>
+                <nom>Marc</nom>
+                <cognom>García</cognom>
+                <dataNaixement>2010-01-15</dataNaixement>
+                <funcioPrincipal>Defensa</funcioPrincipal>
+                <funcionsSecundaries>Porter</funcionsSecundaries>
+            </jugador>
+        </jugadors>
+    </equip>
+    <equip>
+        <nom>BC Bàsquet</nom>
+        <localitzacio>Madrid</localitzacio>
+        <director>Laura Gómez</director>
+        <victories>8</victories>
+        <derrotes>7</derrotes>
+        <jugadors>
+            <jugador>
+                <nom>Abril</nom>
+                <cognom>Martínez</cognom>
+                <dataNaixement>2003-05-22</dataNaixement>
+                <funcioPrincipal>Pivot</funcioPrincipal>
+                <funcionsSecundaries>Base</funcionsSecundaries>
+            </jugador>
+        </jugadors>
+    </equip>
+</lliga>
