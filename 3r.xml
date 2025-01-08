@@ -15,6 +15,13 @@
                 <funcioPrincipal>Defensa</funcioPrincipal>
                 <funcionsSecundaries>Porter</funcionsSecundaries>
             </jugador>
+            <jugador>
+                <nom>Claus</nom>
+                <cognom>Gil</cognom>
+                <dataNaixement>2012-01-15</dataNaixement>
+                <funcioPrincipal>Delantera</funcioPrincipal>
+                <funcionsSecundaries>Central</funcionsSecundaries>
+            </jugador>
         </jugadors>
     </equip>
     <equip>
@@ -30,6 +37,13 @@
                 <dataNaixement>2003-05-22</dataNaixement>
                 <funcioPrincipal>Pivot</funcioPrincipal>
                 <funcionsSecundaries>Base</funcionsSecundaries>
+            </jugador>
+            <jugador>
+                <nom>Paula</nom>
+                <cognom>Pérez</cognom>
+                <dataNaixement>2004-08-23</dataNaixement>
+                <funcioPrincipal>Base</funcioPrincipal>
+                <funcionsSecundaries>Pivot</funcionsSecundaries>
             </jugador>
         </jugadors>
     </equip>
